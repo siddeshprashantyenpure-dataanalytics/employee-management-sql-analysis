@@ -1,0 +1,9 @@
+department_id,department_name,manager_employee_id,location
+1,IT,1,Pune
+2,HR,2,Mumbai
+3,Finance,3,Pune
+4,Sales,4,Bengaluru
+5,Marketing,5,Mumbai
+6,Operations,6,Hyderabad
+7,Analytics,7,Pune
+8,Legal,,Delhi
